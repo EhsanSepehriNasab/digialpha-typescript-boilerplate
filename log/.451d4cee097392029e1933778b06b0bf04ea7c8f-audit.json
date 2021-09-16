@@ -1,0 +1,64 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "log/.451d4cee097392029e1933778b06b0bf04ea7c8f-audit.json",
+    "files": [
+        {
+            "date": 1627732349257,
+            "name": "log/user-service-2021-07-31-16.log",
+            "hash": "147c0e1de54daacfb6bf7e09c7f1ce2f"
+        },
+        {
+            "date": 1627734601606,
+            "name": "log/user-service-2021-07-31-17.log",
+            "hash": "75840f8fcd381f6069a1c173b656991f"
+        },
+        {
+            "date": 1627763431973,
+            "name": "log/user-service-2021-08-01-01.log",
+            "hash": "2224e9965425d3d078be708220ca7f42"
+        },
+        {
+            "date": 1627773968666,
+            "name": "log/user-service-2021-08-01-03.log",
+            "hash": "612616cd4ef2d45115df2c13a623c756"
+        },
+        {
+            "date": 1627774353004,
+            "name": "log/user-service-2021-08-01-04.log",
+            "hash": "e82fc09ea43a52e7d75672fbf32e5533"
+        },
+        {
+            "date": 1627795802861,
+            "name": "log/user-service-2021-08-01-10.log",
+            "hash": "71d3e5af8fbcf9dfa9782fc245c34d72"
+        },
+        {
+            "date": 1627814504758,
+            "name": "log/user-service-2021-08-01-15.log",
+            "hash": "1201927799f64b23558c8b697405fe04"
+        },
+        {
+            "date": 1627817402248,
+            "name": "log/user-service-2021-08-01-16.log",
+            "hash": "ad5bc69026ecd8b261593f090f89b4bb"
+        },
+        {
+            "date": 1627821005585,
+            "name": "log/user-service-2021-08-01-17.log",
+            "hash": "9163233eeeaa8b0b96ae1e762a38e1b3"
+        },
+        {
+            "date": 1627824977577,
+            "name": "log/user-service-2021-08-01-18.log",
+            "hash": "66165c66a99432a2255354a9245282db"
+        },
+        {
+            "date": 1627828586856,
+            "name": "log/user-service-2021-08-01-19.log",
+            "hash": "a3b5f47171a0cb9719757ce0954583ed"
+        }
+    ]
+}
